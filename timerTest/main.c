@@ -149,4 +149,12 @@ int main()
     while(1);
 }
 
+/********************************************************************/
+//result
+// 10:16:45 thread 2974729984, val = 6, signal captured.
+// 10:16:47 thread 2974729984, val = 6, signal captured.
+// 10:16:49 thread 2974729984, val = 6, signal captured.
+// 10:16:51 thread 2974729984, val = 6, signal captured.
+// 10:16:53 thread 2974729984, val = 6, signal captured.
+/********************************************************************/
 

@@ -215,6 +215,7 @@ DIST          = ../../Qt5.10.1/5.10.1/gcc_64/mkspecs/features/spec_pre.prf \
 		../../Qt5.10.1/5.10.1/gcc_64/mkspecs/features/qt_config.prf \
 		../../Qt5.10.1/5.10.1/gcc_64/mkspecs/linux-g++/qmake.conf \
 		../../Qt5.10.1/5.10.1/gcc_64/mkspecs/features/spec_post.prf \
+		../timerTest/.qmake.stash \
 		../../Qt5.10.1/5.10.1/gcc_64/mkspecs/features/exclusive_builds.prf \
 		../../Qt5.10.1/5.10.1/gcc_64/mkspecs/features/toolchain.prf \
 		../../Qt5.10.1/5.10.1/gcc_64/mkspecs/features/default_pre.prf \
@@ -402,6 +403,7 @@ Makefile: ../timerTest/timerTest.pro ../../Qt5.10.1/5.10.1/gcc_64/mkspecs/linux-
 		../../Qt5.10.1/5.10.1/gcc_64/mkspecs/features/qt_config.prf \
 		../../Qt5.10.1/5.10.1/gcc_64/mkspecs/linux-g++/qmake.conf \
 		../../Qt5.10.1/5.10.1/gcc_64/mkspecs/features/spec_post.prf \
+		.qmake.stash \
 		../../Qt5.10.1/5.10.1/gcc_64/mkspecs/features/exclusive_builds.prf \
 		../../Qt5.10.1/5.10.1/gcc_64/mkspecs/features/toolchain.prf \
 		../../Qt5.10.1/5.10.1/gcc_64/mkspecs/features/default_pre.prf \
@@ -579,6 +581,7 @@ Makefile: ../timerTest/timerTest.pro ../../Qt5.10.1/5.10.1/gcc_64/mkspecs/linux-
 ../../Qt5.10.1/5.10.1/gcc_64/mkspecs/features/qt_config.prf:
 ../../Qt5.10.1/5.10.1/gcc_64/mkspecs/linux-g++/qmake.conf:
 ../../Qt5.10.1/5.10.1/gcc_64/mkspecs/features/spec_post.prf:
+.qmake.stash:
 ../../Qt5.10.1/5.10.1/gcc_64/mkspecs/features/exclusive_builds.prf:
 ../../Qt5.10.1/5.10.1/gcc_64/mkspecs/features/toolchain.prf:
 ../../Qt5.10.1/5.10.1/gcc_64/mkspecs/features/default_pre.prf:
